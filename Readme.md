@@ -193,46 +193,6 @@ The project contains more than 30 SQL queries covering:
 
 ---
 
-## Screenshots
-
-### Database Schema
-
-![Database Schema](screenshots/01_database_schema.png)
-
-### Imported Dataset
-
-![Imported Dataset](screenshots/02_csv_import.png)
-
-### Star Schema
-
-![Star Schema](screenshots/03_star_schema_tables.png)
-
-### Revenue by Category
-
-![Category Analysis](screenshots/05_category_sales.png)
-
-### Top Revenue Cities
-
-![City Analysis](screenshots/06_top_cities.png)
-
-### Customer Analysis
-
-![Customer Analysis](screenshots/07_customer_analysis.png)
-
-### Window Functions
-
-![Window Functions](screenshots/08_window_functions.png)
-
-### CTE Queries
-
-![CTE Queries](screenshots/09_cte_queries.png)
-
-### CASE WHEN Analysis
-
-![CASE WHEN](screenshots/10_case_when.png)
-
----
-
 ## Learning Outcomes
 
 Through this project, I gained practical experience in:
