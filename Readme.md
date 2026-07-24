@@ -211,6 +211,6 @@ Through this project, I gained practical experience in:
 
 **Sakshi Gokhale**
 
-LinkedIn: https://www.linkedin.com/in/sakshi-gokhale
+LinkedIn: https://www.linkedin.com/in/sakshi-gokhale-bb765425a
 
 GitHub: https://github.com/sakshi-gokhale
