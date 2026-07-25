@@ -149,9 +149,7 @@ E-Commerce-Transaction-Analytics-Engine/
 │
 ├── screenshots/
 │
-├── README.md
-│
-└── LICENSE
+└── README.md
 ```
 
 ---
